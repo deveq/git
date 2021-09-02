@@ -83,7 +83,7 @@ const로 정의된 변수는 재할당이 불가능하다.
 
 ![2-14 const는 변수를 재할당 불가능하게 만든다](https://images.velog.io/images/jiseon96/post/2a460557-b68f-4281-b724-77113a0de895/image.png)
 
-![2-15  const로 정의해도 객체의 내부 속성 값은 수정 가능하다](https://images.velog.io/images/jiseon96/post/c2b74f1c-b832-48ae-ab5d-e714f1bf6953/image.png)
+![2-15  const로 정의해도 객체의 내부 속성 값은 수정  가능하다](https://images.velog.io/images/jiseon96/post/c2b74f1c-b832-48ae-ab5d-e714f1bf6953/image.png)
 
 ![2-16 const로 정의된 변수에 재할당은 불가능하다](https://images.velog.io/images/jiseon96/post/914c0dfd-6027-46b6-b2fe-203b882f2591/image.png)
 
