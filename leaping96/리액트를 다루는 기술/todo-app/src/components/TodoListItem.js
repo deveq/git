@@ -28,4 +28,4 @@ return (
 
 
 
-export default TodoListItem;
+export default React.memo(TodoListItem);
