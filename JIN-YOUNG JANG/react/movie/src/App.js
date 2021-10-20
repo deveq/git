@@ -54,6 +54,7 @@ class App extends React.Component {
                   poster={movie.medium_cover_image}
                   key={movie.id}
                   rating={movie.rating}
+                  genres={movie.genres}
                 />
               );
             })}
